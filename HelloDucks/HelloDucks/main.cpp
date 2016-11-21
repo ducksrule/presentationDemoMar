@@ -7,5 +7,6 @@ int main() {
 	cout << "Quack\n";
 
 	//this is a random change to see what happens
+	//this is a simple change
 	return 0;
 }
